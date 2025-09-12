@@ -52,11 +52,11 @@
   "homepage": "https://github.com/patlux/react-native-bluetooth-state-manager",
   "devDependencies": {
     "@types/react": "^18.3.4",
-    "nitro-codegen": "0.25.2",
+    "nitro-codegen": "^0.29.4",
     "react": "18.3.1",
     "react-native": "0.77.0",
     "react-native-builder-bob": "^0.34.0",
-    "react-native-nitro-modules": "0.25.2",
+    "react-native-nitro-modules": "^0.29.4",
     "typescript": "*"
   },
   "peerDependencies": {
