@@ -1,3 +1,15 @@
+## 2.0.4 (2025-09-12)
+
+### 🩹 Fixes
+
+- postinstall not required ([617f6b5](https://github.com/patlux/react-native-bluetooth-state-manager/commit/617f6b5))
+- **android:** add support for flexible page sizes (16kb) in CMake build configuration ([7fc3534](https://github.com/patlux/react-native-bluetooth-state-manager/commit/7fc3534))
+
+### ❤️ Thank You
+
+- Patrick Wozniak @patlux
+- Quentin Gans
+
 ## 2.0.2 (2025-05-29)
 
 ### 🩹 Fixes
