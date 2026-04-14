@@ -12,7 +12,7 @@
         "react": "~18.3.1",
         "react-dom": "~18.3.1",
         "react-native": "0.76.3",
-        "react-native-nitro-modules": "^0.29.4",
+        "react-native-nitro-modules": "^0.35.4",
         "react-native-svg": "~15.8.0",
         "react-native-svg-transformer": "~1.5.0",
         "react-native-web": "~0.19.13",
@@ -78,14 +78,14 @@
     },
     "packages/react-native-bluetooth-state-manager": {
       "name": "react-native-bluetooth-state-manager",
-      "version": "2.0.2",
+      "version": "2.0.4",
       "devDependencies": {
         "@types/react": "^18.3.4",
         "nitro-codegen": "^0.29.4",
         "react": "18.3.1",
         "react-native": "0.77.0",
         "react-native-builder-bob": "^0.34.0",
-        "react-native-nitro-modules": "^0.29.4",
+        "react-native-nitro-modules": "^0.35.4",
         "typescript": "*",
       },
       "peerDependencies": {
@@ -2534,7 +2534,7 @@
 
     "react-native-builder-bob": ["react-native-builder-bob@0.34.0", "", { "dependencies": { "@babel/core": "^7.25.2", "@babel/plugin-transform-strict-mode": "^7.24.7", "@babel/preset-env": "^7.25.2", "@babel/preset-flow": "^7.24.7", "@babel/preset-react": "^7.24.7", "@babel/preset-typescript": "^7.24.7", "babel-plugin-module-resolver": "^5.0.2", "browserslist": "^4.20.4", "cosmiconfig": "^9.0.0", "cross-spawn": "^7.0.3", "dedent": "^0.7.0", "del": "^6.1.1", "escape-string-regexp": "^4.0.0", "fs-extra": "^10.1.0", "glob": "^8.0.3", "is-git-dirty": "^2.0.1", "json5": "^2.2.1", "kleur": "^4.1.4", "metro-config": "^0.80.9", "prompts": "^2.4.2", "which": "^2.0.2", "yargs": "^17.5.1" }, "bin": { "bob": "bin/bob" } }, "sha512-EW6ufzqBBkOkIxYyeWC/bFvyTvAFDupS8JLgmDileS8FfXgWvD/h7yaz5hhfCEogxI2nMOulCxaUs58E45dW3Q=="],
 
-    "react-native-nitro-modules": ["react-native-nitro-modules@0.29.4", "", { "peerDependencies": { "react": "*", "react-native": "*" } }, "sha512-AfUMcwFtj9FuEDwDLN5eIVo0lBYTQqDaV7meiFzuoZyRmc8ywykFTKfyZwRN2t8Z/WtTlfCj9Y9yaET33IImsg=="],
+    "react-native-nitro-modules": ["react-native-nitro-modules@0.35.4", "", { "peerDependencies": { "react": "*", "react-native": "*" } }, "sha512-4qZa+1kgR/sPRNZv+UShxyArEPpovWxw76Dfd/DtCVtkQ92wOOxGIzdYvndprabd+t+r8zNYgYEPYE74gzkuVQ=="],
 
     "react-native-permissions": ["react-native-permissions@5.3.0", "", { "peerDependencies": { "react": ">=18.1.0", "react-native": ">=0.70.0", "react-native-windows": ">=0.70.0" }, "optionalPeers": ["react-native-windows"] }, "sha512-krDaImQ7J8tm7P+GqKmTIkojNqdO0E6v2x7TOlX/7rRc/zlpoqRXsN7210ecChcUmEOJEH6wzPcemYq+7AfZiw=="],
 
