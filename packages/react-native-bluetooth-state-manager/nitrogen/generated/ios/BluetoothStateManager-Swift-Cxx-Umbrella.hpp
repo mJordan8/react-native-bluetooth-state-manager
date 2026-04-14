@@ -28,7 +28,7 @@ namespace margelo::nitro::bluetoothstatemanager { class HybridBluetoothStateMana
 
 // Common C++ types used in Swift
 #include <NitroModules/ArrayBufferHolder.hpp>
-#include <NitroModules/AnyMapHolder.hpp>
+#include <NitroModules/AnyMapUtils.hpp>
 #include <NitroModules/RuntimeError.hpp>
 
 // Forward declarations of Swift defined types
